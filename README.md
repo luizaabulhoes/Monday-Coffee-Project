@@ -77,7 +77,6 @@ The SQL scripts developed for this project include:
 
 ### 🪄 Tools & Technologies
 - **SQL Server / PostgreSQL**
-- **Excel / Power BI** for visualization (optional)
 - **GitHub** for version control and documentation
 
 ---
