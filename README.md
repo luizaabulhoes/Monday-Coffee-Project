@@ -77,7 +77,7 @@ The SQL scripts developed for this project include:
 
 ### 🪄 Tools & Technologies
 - **Google BigQuery**
-- **GitHub** for version control and documentation
+- **GitHub** for documentation
 
 ---
 ### 👥 Credits
